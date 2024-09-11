@@ -47,7 +47,7 @@ def send_email():
 def select_template(data):
     template_name = data['template']
     if template_name == '2-fa':
-        with open('models/2-fa.html', 'r') as f:
+        with open('templates/2-fa.html', 'r') as f:
             template = f.read()
     print(data['reciepient'][0]['name'])
     template = template.replace('{{name}}', data['reciepient'][0]['name'])
