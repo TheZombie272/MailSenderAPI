@@ -15,7 +15,7 @@ Para instalar y ejecutar el proyecto, sigue estos pasos:
 1. Clona el Repositorio:
 
     ```bash
-    git clone https://github.com/TheZombie272/MailSenderAPI.git
+    git clone https://github.com/TheZombie272/MailSenderAPI
     cd MailSenderAPI
 
 2. Instala las Dependencias:
