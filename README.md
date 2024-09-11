@@ -27,10 +27,10 @@ Asegúrate de tener Flask y otras dependencias necesarias instaladas. Puedes hac
 3. Ejecuta el Servidor:
 Inicia el servidor Flask con python.
 
-##Uso
+## Uso
 Para enviar correos electrónicos, puedes hacer solicitudes a las rutas definidas en el servidor. Asegúrate de modificar la función select_template para elegir la plantilla que deseas utilizar.
 
-###Ejemplo de Uso
+### Ejemplo de Uso
 Aquí hay un ejemplo básico de cómo enviar un correo electrónico utilizando la API:
 
     ```http
